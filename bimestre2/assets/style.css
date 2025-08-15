@@ -45,6 +45,9 @@ nav {
     left: 800px;
     margin:20px;
 }
+.menu {
+    left:750px;
+}
 .menu a,.rodape a {
     background-color: #D5B13B;
     border-radius: 20px;
