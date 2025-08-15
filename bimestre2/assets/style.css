@@ -46,7 +46,7 @@ nav {
     margin:20px;
 }
 .menu {
-    left:720px;
+    left:740px;
 }
 .menu a,.rodape a {
     background-color: #D5B13B;
@@ -63,7 +63,6 @@ nav {
     color: #FFFB80;
     font-size: 40px;
     position: absolute;
-    top:10px;
     left: 120px;
 
 }
